@@ -783,7 +783,7 @@ button:focus {
 
 .header-text.about {
   position: relative;
-  background: url("./images/hero-image.png") rgba(0, 0, 0, 0.5);
+  background: url("./images/bg.jpg") rgba(0, 0, 0, 0.5);
   background-attachment: fixed;
   background-position: bottom center;
   background-repeat: no-repeat;
@@ -795,7 +795,7 @@ button:focus {
 
 .header-text.service {
   position: relative;
-  background: url("./images/hero-image.png") rgba(0, 0, 0, 0.5);
+  background: url("./images/blog5-1\ \(1\).jpg") rgba(0, 0, 0, 0.5);
   background-attachment: fixed;
   background-position: bottom center;
   background-repeat: no-repeat;
